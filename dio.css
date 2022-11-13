@@ -54,13 +54,13 @@ header ul li a{
     position: relative;
     max-width: 600px;
 }
-.content .textBox h2{
+.content .textBox h1{
     color: #333;
     font-size: 4em;
     line-height: 1.4em;
     font-weight: 500;
 }
-.content .textBox h2 span{
+.content .textBox h1 span{
     color: #017143;
     font-size: 1.2em;
     font-weight: 900;
